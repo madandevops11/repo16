@@ -1,1 +1,2 @@
-Hi this is python file, modified by branch3
+Hi this is python file, modified by right way
+
